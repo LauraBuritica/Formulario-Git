@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    list-style: none;
+    outline: none;
+}
+.formulario{
+    font-family: 'Bungee Spice', cursive;
+    text-align: center;
+    padding-top: 20px;
+    background-color: rgb(25, 80, 233);
+    height: 50vh;
+    font-size: 20px;
+}
+.lottie{
+    background-color: red;
+    height: 50vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 50px;
+}
+input{
+    height: 30px;
+    border-radius: 15px;
+    padding: 10px;
+}
+textarea{
+    border-radius: 15px;
+}
